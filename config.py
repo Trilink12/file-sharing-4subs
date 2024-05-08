@@ -14,7 +14,7 @@ APP_ID = int(os.environ.get("APP_ID", "24095673"))
 API_HASH = os.environ.get("API_HASH", "961927ad6323a490652e6d3250d10c63")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002063520999")) # give admin rights all fouth channels ( add yr bot into yr channels)
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002013282529")) # give admin rights all fouth channels ( add yr bot into yr channels)
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1837294444"))
